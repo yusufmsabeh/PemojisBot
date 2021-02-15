@@ -84,9 +84,7 @@ async def on_ready():
   async def on_message(message):
   
     
-    with open('databasekeeper.env', 'a') as f:
-      f.write(f"{str(message.created_at)[0:-7]}: {message.author}==={message.content}\n\n----------------\n\n")
-  
+    
     
     lower_message=message.content.lower()
     list_words=(lower_message).split()
