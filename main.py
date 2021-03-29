@@ -28,9 +28,10 @@ async def on_ready():
 
 
     #******************On message fun*********************
+    #******This fun just work on every message has been send on the discord server
 @client.event
 async def on_message(message):
-
+#******Ignoring the bot messages 
     if message.author == client.user:
         return
     else:
