@@ -1,5 +1,12 @@
 # PemojisBot
 It's my first discord bot 
-It made for posting emojis and GIFs , add new emojis and delete from the list 
-i know it is bad but it is my first one
+
+this bot made to deal with emojis and GIFs 
+own your list of emojis and add, edit, del from and on it
+It is easy to use just type phelp 
 To test it change the Token to your bot's token
+enjoy
+
+
+
+believe  me it is not that bad
